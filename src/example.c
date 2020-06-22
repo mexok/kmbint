@@ -17,4 +17,6 @@ int main(void)
 
         kmbint_div(i, "100");
         printf("1100 / 100 = %s\n", i);
+
+        return 0;
 }

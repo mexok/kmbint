@@ -199,4 +199,5 @@ int main(void)
         test_cmp();
         test_cross_sum();
         test_cross_sum_zero();
+        return 0;
 }

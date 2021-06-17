@@ -17,7 +17,7 @@ Motivation
 ----------
 
 I got my motivation for implementing this library by solving Problem #20 from Project Euler and found this library 
-useful. However, I don't provide a solution for this problem.
+useful. However, I don't provide a solution for this problem, but I found it quite easy to solve using this library.
 
 Usage
 -----
